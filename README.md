@@ -19,7 +19,6 @@ Punto 1: Oscilador Astable con TL555
 
   •	Esquema: Diagrama de montaje de circuito eléctrico para la creación de la onda por medio del 555.
  
-IMAGEN
 
 <img width="906" height="634" alt="image" src="https://github.com/user-attachments/assets/143062f6-2fb7-4ec7-9990-84ab32542019" />
 
@@ -42,7 +41,8 @@ Referencia: (Cómo Construir un Oscilador con un Temporizador 555 (en Modo Astab
     o	Terminal de Tierra (GND): Punto de referencia común.
   •	Simulación en Proteus
 
- IMAGEN
+<img width="921" height="410" alt="image" src="https://github.com/user-attachments/assets/d64f8cdf-ee88-4c34-b5e6-b01d2e2c8e1f" />
+
  
 Referencia: (Elaborado por Edwin stiven pasto y Julian felipe Romero)
 
@@ -75,7 +75,8 @@ Punto 3: Conversor Binario a Hexadecimal
     3.3). Si pones 1010 (que es el número 10), el cerebro activa las barritas necesarias para dibujar la letra A.
 •	Esquema: Diagrama de montaje de circuito eléctrico para la creación de la onda por medio del 555.
 
- IMAGEN
+ <img width="921" height="705" alt="image" src="https://github.com/user-attachments/assets/4b5da4a1-ed78-42a6-adeb-08792e46697a" />
+
 Referencia:  (Cómo Construir un Oscilador con un Temporizador 555 (en Modo Astable). (n.d.). https://www.learningaboutelectronics.com/Articulos/Oscilador-con-un-temporizador-555-modo-astable.php#google_vignette)
 
   •	Mapa de Karnaugh: Para cada segmento se debe realizar un mapa de 4 variables. Por ejemplo, para el Segmento "a", la función booleana simplificada tras agrupar los 1s en el mapa de Karnaugh sería:
@@ -84,7 +85,8 @@ Referencia:  (Cómo Construir un Oscilador con un Temporizador 555 (en Modo Asta
     
     •	Tabla de Verdad Completa: Por medio de la tabla de verdad se relaciona cada segmento del display para su reprsentacion hexadecimal
 
-IMAGEN
+<img width="921" height="542" alt="image" src="https://github.com/user-attachments/assets/f3926967-59b7-4f53-a516-8c53f272af64" />
+
  
 Referencia: (Elaborado por Edwin stiven pasto y Julian felipe Romero)
 
