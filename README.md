@@ -109,15 +109,12 @@ Display 7 Segmentos Cátodo Común: El elemento de visualización final.Resisten
 
 # Conclusiones 
 
-Validación de la Oscilación Astable: Se comprueba que por medio del temporizador 555 nos permite la generacion de señales cuadradas, mediante la experimentación y la combinaciones de R1 = 1k-Omega, R2 =6.2-Omega y C = 220 mu.
+Validación de la Oscilación Astable: 
+Se comprueba que el temporizador 555 nos permite la generación de señales cuadradas, mediante la experimentación y las combinaciones de R1 = 1 kΩ, R2 = 6.2 Ω y C = 220 µF.
+Importancia de la Regulación de Voltaje: 
+El implementar el regulador lm7805 es fundamental para la entrada del voltaje, esto mismo nos asegura la protección de los circuitos integrados.
+Eficacia de la Lógica Combinacional: 
+El desarrollo del conversor binario a hexadecimal demostró que es posible reemplazar integrados especializados mediante el diseño de una matriz de compuertas lógicas básicas (AND, OR, NOT), logrando la visualización correcta de los 16 caracteres (0-F) en un display de 7 segmentos.
 
-Importancia de la Regulación de Voltaje: El implementar 
-La implementación del regulador LM7805 fue fundamental para estabilizar la entrada de 9V a 5V constantes, asegurando la protección de los circuitos integrados de las familias 74HC/74LS y garantizando que las tablas de verdad no presentaran errores por fluctuaciones de tensión.
-
-Eficacia de la Lógica Combinacional: El desarrollo del conversor binario a hexadecimal demostró que es posible reemplazar integrados especializados mediante el diseño de una matriz de compuertas lógicas básicas (AND, OR, NOT), logrando la visualización correcta de los 16 caracteres (0-F) en un display de 7 segmentos.
-
-Simplificación mediante Mapas de Karnaugh: Se concluye que la técnica de mapas de Karnaugh es una herramienta indispensable para reducir la complejidad del cableado y el número de compuertas necesarias, optimizando el espacio en la protoboard y minimizando posibles puntos de falla en el sistema decodificador
-
-
-# Resultados
+# Recomendaciones
 Gestión de Conexiones en Protoboard: Para el punto 3 (Decodificador), se recomienda realizar el montaje de forma modular, probando segmento por segmento (del 'a' al 'g') antes de completar el circuito total, debido a la alta densidad de cableado que puede dificultar la detección de errores de conexión.Uso de Resistencias de Protección: Es mandatorio incluir resistencias (preferiblemente de $220\Omega$ o $330\Omega$) en cada segmento del display de cátodo común para evitar sobrecargas que puedan dañar los LEDs internos del display o las salidas de las compuertas lógicas.Verificación de Fichas Técnicas: Antes de energizar, se sugiere revisar los datasheets de cada integrado, especialmente en compuertas como la NOR (74LS02), cuya distribución de pines suele diferir del estándar de otras compuertas de la misma familia.Documentación Colaborativa en GitHub: Se recomienda mantener una frecuencia constante de "commits" individuales en el repositorio para que la sección de Insights del proyecto refleje de manera equitativa el aporte técnico de cada integrante del grupo, tal como lo solicita la rúbrica del docente
