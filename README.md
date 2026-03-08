@@ -1,6 +1,6 @@
-# LABORATORIO #1
+# LABORATORIO N°1
 # Integrantes: 
-  Edwin stiven pasto / Julian Romero bocanegra
+  Edwin Stiven Pasto / Julian Romero Bocanegra
 # Docente: 
   Diego Alejandro Barragán Vargas
 # Institución: 
@@ -9,7 +9,7 @@
 # Introducción
 El informe documenta el desarrollo y los resultados obtenidos en el primer laboratorio implementado en Sistema Digitales. Este laboratorio se focaliza en la implementación y análisis de circuitos en electrónica digital, por ejemplo, el oscilador multivibrador como mediador, el temporizador TL555, la identificación de compuertas lógicas y el diseño de un sistema hexadecimal por medio de un display. Con la implementación de este ejercicio, se busca fundamentar y validar los conocimientos conceptuales de la lógica booleana y el comportamiento de la señal digital en el tiempo.
 
-# Punto 1:
+# Punto 1 | Onda Digital:
   El objetivo del primer punto de este laboratorio es diseñar y construir un oscilador astable con el uso del temporizador TL555. Este circuito se caracteriza por no tener un estado estable; su salida se conmuta constantemente entre el alto y el bajo de voltaje, generando así una onda cuadrada continua.
   
 # Esquema: 
@@ -41,7 +41,7 @@ Referencia: (Elaborado por Edwin stiven pasto y Julian felipe Romero)
 
 
 
-# Punto 2: 
+# Punto 2 | Compuertas Logicas: 
 El objetivo del punto #2 es reconocer la caracterización técnica de las compuertas lógicas AND, OR, NOT, NAND, NOR y XOR. A través de este ejercicio, se busca validar las funciones booleanas y su comportamiento directo en circuitos integrados reales, identificando sus salidas y sus diferentes combinaciones de entrada.
 
 # Esquema
@@ -59,6 +59,7 @@ Compuerta XOR: Circuito Integrado 74HC86 o 74LS86.
 
 # Simulacion en proteus
 Compuerta AND
+![alt text](image.png)
 Compuerta OR
 Compuerta NOT
 Compuerta NAND
@@ -124,3 +125,7 @@ Es obligatorio incluir resistencias (preferiblemente de 220 a 330) en cada segme
 
 # Verificación de Fichas Técnicas: 
 Antes de energizar, es importante revisar los datasheets de cada uno de circuitos integrados, especialmente en compuertas como la NOR (74LS02), cuya distribución de pines suele ser diferente al estándar de otras compuertas.
+
+## Referencias y Atribuciones
+* **Simulación:** Diseño desarrollado en Proteus Design Suite v8.13 / v9.1
+* **Licencia:** Este proyecto se distribuye bajo fines académicos para la Universidad Compensar.
