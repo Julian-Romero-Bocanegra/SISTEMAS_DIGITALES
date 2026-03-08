@@ -132,6 +132,7 @@ Diagrama de montaje de circuito eléctrico para la creación de la onda por medi
 
 ### Montaje Fisico
 (Referencial)
+
 <img width="382" height="376" alt="image" src="https://github.com/user-attachments/assets/c980c598-1f21-460a-8940-66c3b0b34fb5" />
 
 Debido a la ausencia de componentes físicos para la implementación final, se toma como referencia técnica el desarrollo realizado por **Juan Tellez**, el cual demuestra la viabilidad del diseño mediante el uso de lógica discreta.
