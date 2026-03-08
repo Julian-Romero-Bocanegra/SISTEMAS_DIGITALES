@@ -78,6 +78,7 @@ Compuerta XOR: Circuito Integrado 74HC86 o 74LS86.
 
 
 # Montaje Fisico
+<img width="1600" height="716" alt="Sin título" src="https://github.com/user-attachments/assets/420790e4-8d5d-491a-9e26-df9c0e1f4b4f" />
 
 
 # Punto 3: 
