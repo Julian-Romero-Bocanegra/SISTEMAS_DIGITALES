@@ -114,11 +114,10 @@ Compuertas OR (74LS32): Para sumar los términos y enviar la señal final a cada
 Display 7 Segmentos Cátodo Común: El elemento de visualización final.Resistencias de 330-Omega: Siete unidades para proteger cada segmento del display.
 
 # Simulacion proteus
-
-
-# Montaje Fisico
 Diagrama de montaje de circuito eléctrico para la creación de la onda por medio del 555.
  <img width="921" height="705" alt="image" src="https://github.com/user-attachments/assets/4b5da4a1-ed78-42a6-adeb-08792e46697a" />
+ 
+# Montaje Fisico
 
 # Conclusiones 
 
