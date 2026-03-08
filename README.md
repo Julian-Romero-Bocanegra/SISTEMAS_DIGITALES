@@ -137,12 +137,12 @@ El implementar el regulador lm7805 es fundamental para la entrada del voltaje, e
 El desarrollo del conversor binario a hexadecimal demostró que es posible reemplazar integrados especializados mediante el diseño de una matriz de compuertas lógicas básicas (AND, OR, NOT), logrando la visualización correcta de los 16 caracteres (0-F) en un display de 7 segmentos.
 
 # Recomendaciones
-## Gestión de Conexiones en Protoboard: 
+### Gestión de Conexiones en Protoboard: 
 Para el punto 3, lo recomendable es realizar el montaje de manera modular, probando segmento por segmento (del 'a' al 'g') antes de terminar el circuito por completo, debido a la alta densidad de cableado que dificulta la revisión de errores.
-## Uso de Resistencias de Protección:
+### Uso de Resistencias de Protección:
 Es obligatorio incluir resistencias (preferiblemente de 220 a 330) en cada segmento del display y probar previamente todo para evitar sobrecargas que puedan dañar los LEDs del display o las salidas de las compuertas lógicas.
 
-## Verificación de Fichas Técnicas: 
+### Verificación de Fichas Técnicas: 
 Antes de energizar, es importante revisar los datasheets de cada uno de circuitos integrados, especialmente en compuertas como la NOR (74LS02), cuya distribución de pines suele ser diferente al estándar de otras compuertas.
 
 # Referencias y Atribuciones
