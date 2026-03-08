@@ -69,7 +69,7 @@ Compuertas XOR
 
 
 # Punto 3: 
-El objetivo de este ejercicio es el diseño y construcción de un sistema decodificador combinacional. Este sistema permite convertir un dato de entrada en formato binario de 4 bits (que representa valores del 0 al 15) en una salida visual legible en un display de 7 segmentos. El reto principal consiste en realizar esta "traducción" utilizando exclusivamente compuertas lógicas básicas (AND, OR, NOT), sin el uso de integrados decodificadores comerciales como el 7447.
+El tercer punto es el diseño y construcción de un sistema decodificador combinacional. Este sistema nos permite convertir la entrada de un formato binario de 4 bits en una salida visual, por medio de un display de 7 segmentos. El principal recto es la traducción utilizando meramente compuertas lógicas.
 
 # Lógica: 
 # 1). La Entrada: (Binario)
@@ -96,12 +96,11 @@ Diagrama de montaje de circuito eléctrico para la creación de la onda por medi
 Referencia:  (Cómo Construir un Oscilador con un Temporizador 555 (en Modo Astable). (n.d.). https://www.learningaboutelectronics.com/Articulos/Oscilador-con-un-temporizador-555-modo-astable.php#google_vignette)
 
 # Componentes
-
-Para este montaje necesitarás una cantidad considerable de integrados debido a la complejidad de las funciones:
+Para este montaje se necesita los siguientes elementos:
 Compuertas NOT (74LS04): Para obtener las negaciones de las entradas.
 Compuertas AND de 2 y 3 entradas (74LS08 / 74LS11): Para realizar los productos de los mapas de Karnaugh.
 Compuertas OR (74LS32): Para sumar los términos y enviar la señal final a cada segmento.
-Display 7 Segmentos Cátodo Común: El elemento de visualización final.Resistencias de 330$\Omega$: Siete unidades para proteger cada segmento del display.
+Display 7 Segmentos Cátodo Común: El elemento de visualización final.Resistencias de 330-Omega: Siete unidades para proteger cada segmento del display.
 
 # Simulacion proteus
 
@@ -110,7 +109,15 @@ Display 7 Segmentos Cátodo Común: El elemento de visualización final.Resisten
 
 # Conclusiones 
 
+Validación de la Oscilación Astable: Se comprueba que por medio del temporizador 555 nos permite la generacion de señales cuadradas, mediante la experimentación y la combinaciones de R1 = 1k-Omega, R2 =6.2-Omega y C = 220 mu.
+
+Importancia de la Regulación de Voltaje: El implementar 
+La implementación del regulador LM7805 fue fundamental para estabilizar la entrada de 9V a 5V constantes, asegurando la protección de los circuitos integrados de las familias 74HC/74LS y garantizando que las tablas de verdad no presentaran errores por fluctuaciones de tensión.
+
+Eficacia de la Lógica Combinacional: El desarrollo del conversor binario a hexadecimal demostró que es posible reemplazar integrados especializados mediante el diseño de una matriz de compuertas lógicas básicas (AND, OR, NOT), logrando la visualización correcta de los 16 caracteres (0-F) en un display de 7 segmentos.
+
+Simplificación mediante Mapas de Karnaugh: Se concluye que la técnica de mapas de Karnaugh es una herramienta indispensable para reducir la complejidad del cableado y el número de compuertas necesarias, optimizando el espacio en la protoboard y minimizando posibles puntos de falla en el sistema decodificador
+
+
 # Resultados
-
-
-# Conclusiones y Recomendaciones
+Gestión de Conexiones en Protoboard: Para el punto 3 (Decodificador), se recomienda realizar el montaje de forma modular, probando segmento por segmento (del 'a' al 'g') antes de completar el circuito total, debido a la alta densidad de cableado que puede dificultar la detección de errores de conexión.Uso de Resistencias de Protección: Es mandatorio incluir resistencias (preferiblemente de $220\Omega$ o $330\Omega$) en cada segmento del display de cátodo común para evitar sobrecargas que puedan dañar los LEDs internos del display o las salidas de las compuertas lógicas.Verificación de Fichas Técnicas: Antes de energizar, se sugiere revisar los datasheets de cada integrado, especialmente en compuertas como la NOR (74LS02), cuya distribución de pines suele diferir del estándar de otras compuertas de la misma familia.Documentación Colaborativa en GitHub: Se recomienda mantener una frecuencia constante de "commits" individuales en el repositorio para que la sección de Insights del proyecto refleje de manera equitativa el aporte técnico de cada integrante del grupo, tal como lo solicita la rúbrica del docente
