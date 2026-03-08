@@ -104,9 +104,6 @@ Por medio de la tabla de verdad se relaciona cada segmento del display para su r
 
 Referencia: (Elaborado por Edwin stiven pasto y Julian felipe Romero) 
 
-# Esquema: 
-
-
 ### Esquema: 
 <img width="858" height="592" alt="figura 1-min" src="https://github.com/user-attachments/assets/4987e4af-25c1-40ae-92ea-088639cc5580" />
 Aguirre, C. (2025, July 7). Circuitos Integrados: Compuertas Lógicas AND, OR , NOR,NAND, XOR y NOT. UNIT Electronics. https://blog.uelectronics.com/electronica/circuitos-integrados-compuertas-logicas-and-or-nand-xor-y-not/
@@ -120,13 +117,13 @@ Compuertas OR (74LS32): Para sumar los términos y enviar la señal final a cada
 Display 7 Segmentos Cátodo Común: El elemento de visualización final.Resistencias de 330-Omega: Siete unidades para proteger cada segmento del display.
 
 
-# Simulacion proteus
+### Simulacion proteus
 Diagrama de montaje de circuito eléctrico para la creación de la onda por medio del 555.
  <img width="921" height="705" alt="image" src="https://github.com/user-attachments/assets/4b5da4a1-ed78-42a6-adeb-08792e46697a" />
  
-# Montaje Fisico
-### Simulacion proteus
 
+### Simulacion proteus
+<img width="1530" height="816" alt="image" src="https://github.com/user-attachments/assets/36bda3db-f9a7-4b79-b2ae-c8147768f2fe" />
 
 ### Montaje Fisico
 (Referencial)
