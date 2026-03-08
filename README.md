@@ -104,7 +104,6 @@ Por medio de la tabla de verdad se relaciona cada segmento del display para su r
 <img width="921" height="542" alt="image" src="https://github.com/user-attachments/assets/f3926967-59b7-4f53-a516-8c53f272af64" />
 Referencia: (Elaborado por Edwin stiven pasto y Julian felipe Romero) 
 
-<<<<<<< HEAD
 # Esquema: 
 
 
@@ -136,7 +135,7 @@ Diagrama de montaje de circuito eléctrico para la creación de la onda por medi
 <img width="382" height="376" alt="image" src="https://github.com/user-attachments/assets/c980c598-1f21-460a-8940-66c3b0b34fb5" />
 
 Debido a la ausencia de componentes físicos para la implementación final, se toma como referencia técnica el desarrollo realizado por **Juan Tellez**, el cual demuestra la viabilidad del diseño mediante el uso de lógica discreta.
->>>>>>> 31c3176 (Actualización final de estructura Markdown)
+
 
 # Conclusiones 
 
