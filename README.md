@@ -12,11 +12,11 @@
 
 El informe documenta el desarrollo y los resultados obtenidos en el primer laboratorio implementado en Sistema Digitales. Este laboratorio de focaliza en la implementación y análisis de circuitos en electrónica digital, por ejemplo, el oscilador multivibrador como mediador el temporizador TL555, la identificación de compuertas lógicas y el diseño de un sistema hexadecimal por medio de un display, con la implementación de este ejercicio se busca fundamentar y validar los conocimientos conceptuales de la lógica booleana y el comportamiento de la señal digital en el tiempo.
 
-INFORME DE LABORATORIO
-Desarrollo de Puntos 
 
 # Punto 1:
-  Oscilador Astable con TL555 
+  El objetivo del primer punto de este laboratorio es diseñar y construir un oscilador astable con el uso del temporizador TL555. Este circuito se caracteriza por no tener un estado estable; su salida se conmuta constantemente entre el alto y el bajo de voltaje, generando así una onda cuadrada continua.
+  
+  
   
 # Objetivo: 
   Por medio de un regulador 555 crear una onda digital con un tiempo de 2 segundos intermedios.
