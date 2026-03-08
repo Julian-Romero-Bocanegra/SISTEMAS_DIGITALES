@@ -40,14 +40,10 @@ B1 (Batería): Fuente de alimentación de 9V o 5V o	Terminal de Tierra (GND): Pu
 Referencia: (Elaborado por Edwin stiven pasto y Julian felipe Romero)
 
 ### Montaje Fisico
-
-
+<img width="1534" height="807" alt="image" src="https://github.com/user-attachments/assets/1bda16ce-ead9-4fbc-b02c-39a2beb256c6" />
 
 ## Punto 2 | Compuertas Logicas: 
 El objetivo del punto #2 es reconocer la caracterización técnica de las compuertas lógicas AND, OR, NOT, NAND, NOR y XOR. A través de este ejercicio, se busca validar las funciones booleanas y su comportamiento directo en circuitos integrados reales, identificando sus salidas y sus diferentes combinaciones de entrada.
-
-### Esquema
-
 
 ### Componentes
 Los componentes usados tanto en el cirucito logico como en el fisico son:
@@ -77,12 +73,15 @@ Compuerta XOR: Circuito Integrado 74HC86 o 74LS86.
 #### Compuertas XOR
 <img width="705" height="367" alt="image" src="https://github.com/user-attachments/assets/19b4e712-99b7-420e-8a52-9c45ffdec9e7" />
 
+### Esquema
+![ESQUEMATICOS-1024x1024](https://github.com/user-attachments/assets/7c4d65f4-668d-4f11-a09c-d93cd28673b5)
+Aguirre, C. (2025, July 7). Circuitos Integrados: Compuertas Lógicas AND, OR , NOR,NAND, XOR y NOT. UNIT Electronics. https://blog.uelectronics.com/electronica/circuitos-integrados-compuertas-logicas-and-or-nand-xor-y-not/
 
 ### Montaje Fisico
 <img width="1600" height="716" alt="Sin título" src="https://github.com/user-attachments/assets/420790e4-8d5d-491a-9e26-df9c0e1f4b4f" />
 
 
-## Punto 3: 
+## Punto 3 | Conversor Binario a Hexadecimal: 
 El tercer punto es el diseño y construcción de un sistema decodificador combinacional. Este sistema nos permite convertir la entrada de un formato binario de 4 bits en una salida visual, por medio de un display de 7 segmentos. El principal recto es la traducción utilizando meramente compuertas lógicas.
 
 ### Lógica: 
@@ -102,16 +101,12 @@ Esa combinación de ceros y unos entra a una red de compuertas lógicas.
 ### Tabla de Verdad: 
 Por medio de la tabla de verdad se relaciona cada segmento del display para su reprsentacion hexadecimal
 <img width="921" height="542" alt="image" src="https://github.com/user-attachments/assets/f3926967-59b7-4f53-a516-8c53f272af64" />
+
 Referencia: (Elaborado por Edwin stiven pasto y Julian felipe Romero) 
 
-<<<<<<< HEAD
-# Esquema: 
-
-
 ### Esquema: 
-Diagrama de montaje de circuito eléctrico para la creación de la onda por medio del 555.
- <img width="921" height="705" alt="image" src="https://github.com/user-attachments/assets/4b5da4a1-ed78-42a6-adeb-08792e46697a" />
-Referencia:  (Cómo Construir un Oscilador con un Temporizador 555 (en Modo Astable). (n.d.). https://www.learningaboutelectronics.com/Articulos/Oscilador-con-un-temporizador-555-modo-astable.php#google_vignette)
+<img width="858" height="592" alt="figura 1-min" src="https://github.com/user-attachments/assets/4987e4af-25c1-40ae-92ea-088639cc5580" />
+Aguirre, C. (2025, July 7). Circuitos Integrados: Compuertas Lógicas AND, OR , NOR,NAND, XOR y NOT. UNIT Electronics. https://blog.uelectronics.com/electronica/circuitos-integrados-compuertas-logicas-and-or-nand-xor-y-not/
 
 
 ### Componentes
@@ -121,42 +116,37 @@ Compuertas AND de 2 y 3 entradas (74LS08 / 74LS11): Para realizar los productos 
 Compuertas OR (74LS32): Para sumar los términos y enviar la señal final a cada segmento.
 Display 7 Segmentos Cátodo Común: El elemento de visualización final.Resistencias de 330-Omega: Siete unidades para proteger cada segmento del display.
 
-
-# Simulacion proteus
-Diagrama de montaje de circuito eléctrico para la creación de la onda por medio del 555.
- <img width="921" height="705" alt="image" src="https://github.com/user-attachments/assets/4b5da4a1-ed78-42a6-adeb-08792e46697a" />
- 
-# Montaje Fisico
 ### Simulacion proteus
-
+<img width="1530" height="816" alt="image" src="https://github.com/user-attachments/assets/36bda3db-f9a7-4b79-b2ae-c8147768f2fe" />
 
 ### Montaje Fisico
 (Referencial)
+
 <img width="382" height="376" alt="image" src="https://github.com/user-attachments/assets/c980c598-1f21-460a-8940-66c3b0b34fb5" />
 
 Debido a la ausencia de componentes físicos para la implementación final, se toma como referencia técnica el desarrollo realizado por **Juan Tellez**, el cual demuestra la viabilidad del diseño mediante el uso de lógica discreta.
->>>>>>> 31c3176 (Actualización final de estructura Markdown)
+
 
 # Conclusiones 
 
-## Validación de la Oscilación Astable: 
+### Validación de la Oscilación Astable: 
 Se comprueba que el temporizador 555 nos permite la generación de señales cuadradas, mediante la experimentación y las combinaciones de R1 = 1 kΩ, R2 = 6.2 Ω y C = 220 µF.
-## Importancia de la Regulación de Voltaje: 
+### Importancia de la Regulación de Voltaje: 
 El implementar el regulador lm7805 es fundamental para la entrada del voltaje, esto mismo nos asegura la protección de los circuitos integrados.
-## Eficacia de la Lógica Combinacional: 
+### Eficacia de la Lógica Combinacional: 
 El desarrollo del conversor binario a hexadecimal demostró que es posible reemplazar integrados especializados mediante el diseño de una matriz de compuertas lógicas básicas (AND, OR, NOT), logrando la visualización correcta de los 16 caracteres (0-F) en un display de 7 segmentos.
 
 # Recomendaciones
-## Gestión de Conexiones en Protoboard: 
+### Gestión de Conexiones en Protoboard: 
 Para el punto 3, lo recomendable es realizar el montaje de manera modular, probando segmento por segmento (del 'a' al 'g') antes de terminar el circuito por completo, debido a la alta densidad de cableado que dificulta la revisión de errores.
-## Uso de Resistencias de Protección:
+### Uso de Resistencias de Protección:
 Es obligatorio incluir resistencias (preferiblemente de 220 a 330) en cada segmento del display y probar previamente todo para evitar sobrecargas que puedan dañar los LEDs del display o las salidas de las compuertas lógicas.
 
-## Verificación de Fichas Técnicas: 
+### Verificación de Fichas Técnicas: 
 Antes de energizar, es importante revisar los datasheets de cada uno de circuitos integrados, especialmente en compuertas como la NOR (74LS02), cuya distribución de pines suele ser diferente al estándar de otras compuertas.
 
 # Referencias y Atribuciones
 * **Simulación:** Diseño desarrollado en Proteus Design Suite v8.13 / v9.1.
 * **Licencia:** Este proyecto se distribuye bajo fines académicos para la Universidad Compensar.
 * **Guía de Montaje Físico:** Tellez, J. (2016). *Decodificador binario a hexadecimal por compuertas lógicas* [Archivo de Video]. YouTube. [https://youtu.be/TKD4wU58XWE](https://youtu.be/TKD4wU58XWE).
-* **Optimización de Hardware:** El análisis del video de referencia confirma que el uso de compuertas de múltiples entradas, como la **74LS11** (AND de 3 entradas) y la **4072B** (OR de 4 entradas), es clave para reducir el número de circuitos integrados y simplificar el cableado en el protoboard.
+* **Asistencia Técnica:** Google Gemini (2026). Apoyo en la estructuración de lenguaje Markdown y resolución de conflictos de versiones en Git
