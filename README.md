@@ -81,7 +81,7 @@ Aguirre, C. (2025, July 7). Circuitos Integrados: Compuertas Lógicas AND, OR , 
 <img width="1600" height="716" alt="Sin título" src="https://github.com/user-attachments/assets/420790e4-8d5d-491a-9e26-df9c0e1f4b4f" />
 
 
-## Punto 3 | Cnversor Binario a Hexadecimal: 
+## Punto 3 | Conversor Binario a Hexadecimal: 
 El tercer punto es el diseño y construcción de un sistema decodificador combinacional. Este sistema nos permite convertir la entrada de un formato binario de 4 bits en una salida visual, por medio de un display de 7 segmentos. El principal recto es la traducción utilizando meramente compuertas lógicas.
 
 ### Lógica: 
