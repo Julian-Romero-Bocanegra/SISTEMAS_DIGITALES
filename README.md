@@ -108,7 +108,8 @@ Referencia: (Elaborado por Edwin stiven pasto y Julian felipe Romero)
 
 
 ### Esquema: 
-
+<img width="858" height="592" alt="figura 1-min" src="https://github.com/user-attachments/assets/4987e4af-25c1-40ae-92ea-088639cc5580" />
+Aguirre, C. (2025, July 7). Circuitos Integrados: Compuertas Lógicas AND, OR , NOR,NAND, XOR y NOT. UNIT Electronics. https://blog.uelectronics.com/electronica/circuitos-integrados-compuertas-logicas-and-or-nand-xor-y-not/
 
 
 ### Componentes
