@@ -45,10 +45,6 @@ Referencia: (Elaborado por Edwin stiven pasto y Julian felipe Romero)
 ## Punto 2 | Compuertas Logicas: 
 El objetivo del punto #2 es reconocer la caracterización técnica de las compuertas lógicas AND, OR, NOT, NAND, NOR y XOR. A través de este ejercicio, se busca validar las funciones booleanas y su comportamiento directo en circuitos integrados reales, identificando sus salidas y sus diferentes combinaciones de entrada.
 
-### Esquema
-![ESQUEMATICOS-1024x1024](https://github.com/user-attachments/assets/7c4d65f4-668d-4f11-a09c-d93cd28673b5)
-Aguirre, C. (2025, July 7). Circuitos Integrados: Compuertas Lógicas AND, OR , NOR,NAND, XOR y NOT. UNIT Electronics. https://blog.uelectronics.com/electronica/circuitos-integrados-compuertas-logicas-and-or-nand-xor-y-not/
-
 ### Componentes
 Los componentes usados tanto en el cirucito logico como en el fisico son:
 Compuerta AND: Circuito Integrado 74HC08 o 74LS08.
@@ -77,6 +73,9 @@ Compuerta XOR: Circuito Integrado 74HC86 o 74LS86.
 #### Compuertas XOR
 <img width="705" height="367" alt="image" src="https://github.com/user-attachments/assets/19b4e712-99b7-420e-8a52-9c45ffdec9e7" />
 
+### Esquema
+![ESQUEMATICOS-1024x1024](https://github.com/user-attachments/assets/7c4d65f4-668d-4f11-a09c-d93cd28673b5)
+Aguirre, C. (2025, July 7). Circuitos Integrados: Compuertas Lógicas AND, OR , NOR,NAND, XOR y NOT. UNIT Electronics. https://blog.uelectronics.com/electronica/circuitos-integrados-compuertas-logicas-and-or-nand-xor-y-not/
 
 ### Montaje Fisico
 <img width="1600" height="716" alt="Sin título" src="https://github.com/user-attachments/assets/420790e4-8d5d-491a-9e26-df9c0e1f4b4f" />
