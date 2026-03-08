@@ -1,10 +1,8 @@
 # LABORATORIO N°1
-# Integrantes: 
-  Edwin Stiven Pasto / Julian Romero Bocanegra
-# Docente: 
-  Diego Alejandro Barragán Vargas
-# Institución: 
-  Fundación Universitaria Compensar.
+
+**Integrantes:** Edwin Stiven Pasto / Julian Romero Bocanegra
+**Docente:** Diego Alejandro Barragán Vargas
+**Institución:** Fundación Universitaria Compensar.
 
 # Introducción
 El informe documenta el desarrollo y los resultados obtenidos en el primer laboratorio implementado en Sistema Digitales. Este laboratorio se focaliza en la implementación y análisis de circuitos en electrónica digital, por ejemplo, el oscilador multivibrador como mediador, el temporizador TL555, la identificación de compuertas lógicas y el diseño de un sistema hexadecimal por medio de un display. Con la implementación de este ejercicio, se busca fundamentar y validar los conocimientos conceptuales de la lógica booleana y el comportamiento de la señal digital en el tiempo.
