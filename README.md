@@ -109,12 +109,18 @@ Display 7 Segmentos Cátodo Común: El elemento de visualización final.Resisten
 
 # Conclusiones 
 
-Validación de la Oscilación Astable: 
+# Validación de la Oscilación Astable: 
 Se comprueba que el temporizador 555 nos permite la generación de señales cuadradas, mediante la experimentación y las combinaciones de R1 = 1 kΩ, R2 = 6.2 Ω y C = 220 µF.
-Importancia de la Regulación de Voltaje: 
+# Importancia de la Regulación de Voltaje: 
 El implementar el regulador lm7805 es fundamental para la entrada del voltaje, esto mismo nos asegura la protección de los circuitos integrados.
-Eficacia de la Lógica Combinacional: 
+# Eficacia de la Lógica Combinacional: 
 El desarrollo del conversor binario a hexadecimal demostró que es posible reemplazar integrados especializados mediante el diseño de una matriz de compuertas lógicas básicas (AND, OR, NOT), logrando la visualización correcta de los 16 caracteres (0-F) en un display de 7 segmentos.
 
 # Recomendaciones
-Gestión de Conexiones en Protoboard: Para el punto 3 (Decodificador), se recomienda realizar el montaje de forma modular, probando segmento por segmento (del 'a' al 'g') antes de completar el circuito total, debido a la alta densidad de cableado que puede dificultar la detección de errores de conexión.Uso de Resistencias de Protección: Es mandatorio incluir resistencias (preferiblemente de $220\Omega$ o $330\Omega$) en cada segmento del display de cátodo común para evitar sobrecargas que puedan dañar los LEDs internos del display o las salidas de las compuertas lógicas.Verificación de Fichas Técnicas: Antes de energizar, se sugiere revisar los datasheets de cada integrado, especialmente en compuertas como la NOR (74LS02), cuya distribución de pines suele diferir del estándar de otras compuertas de la misma familia.Documentación Colaborativa en GitHub: Se recomienda mantener una frecuencia constante de "commits" individuales en el repositorio para que la sección de Insights del proyecto refleje de manera equitativa el aporte técnico de cada integrante del grupo, tal como lo solicita la rúbrica del docente
+# Gestión de Conexiones en Protoboard: 
+Para el punto 3, lo recomendable es realizar el montaje de manera modular, probando segmento por segmento (del 'a' al 'g') antes de terminar el circuito por completo, debido a la alta densidad de cableado que dificulta la revisión de errores.
+# Uso de Resistencias de Protección:
+Es obligatorio incluir resistencias (preferiblemente de 220 a 330) en cada segmento del display y probar previamente todo para evitar sobrecargas que puedan dañar los LEDs del display o las salidas de las compuertas lógicas.
+
+# Verificación de Fichas Técnicas: 
+Antes de energizar, es importante revisar los datasheets de cada uno de circuitos integrados, especialmente en compuertas como la NOR (74LS02), cuya distribución de pines suele ser diferente al estándar de otras compuertas.
