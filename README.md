@@ -1,4 +1,3 @@
-# SISTEMAS_DIGITALES 
 # LABORATORIO #1
 
 # Institución: 
