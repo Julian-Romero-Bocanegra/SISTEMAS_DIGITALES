@@ -1,0 +1,10 @@
+# Archivos temporales y de respaldo de Proteus
+*.pdsbak
+*.pdsbak.*
+*.workspace
+*.pwi
+
+# Archivos de sistema
+Thumbs.db
+Desktop.ini
+.DS_Store
