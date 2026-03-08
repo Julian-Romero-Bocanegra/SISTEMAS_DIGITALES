@@ -28,7 +28,7 @@ Referencia: (Cómo Construir un Oscilador con un Temporizador 555 (en Modo Astab
   U1 (Regulador de Voltaje 7805): Reducir y estabiliza el voltaje de entrada a 5V o 9Vencargado de la alimentación del circuito.
   D1 (LED-RED): Un diodo emisor de luz de color rojo (Bombillo LED) el cual es nuestro indicador de la oscilación de salida de 2 segundos.
   
-# componentes Pasivos (Resistencias y Capacitores)
+# Componentes Pasivos (Resistencias y Capacitores)
   R1 (Resistencia): Valor de 1k\Omega.
   R2 (Resistencia): Valor de 6.2k\Omega.
   C1 (Capacitor Electrolítico): Valor de 220\muF, utilizado para el filtrado.
@@ -38,25 +38,34 @@ Referencia: (Cómo Construir un Oscilador con un Temporizador 555 (en Modo Astab
   B1 (Batería): Fuente de alimentación de 9V o 5V o	Terminal de Tierra (GND): Punto de referencia común.
 
 # Simulación en Proteus
-
 <img width="921" height="410" alt="image" src="https://github.com/user-attachments/assets/d64f8cdf-ee88-4c34-b5e6-b01d2e2c8e1f" />
-
- 
 Referencia: (Elaborado por Edwin stiven pasto y Julian felipe Romero)
 
+# Montaje Fisico
 
-  •	Resultados: Fotos del montaje físico y captura de la onda en osciloscopio (si aplica).
+Fotos del montaje físico y captura de la onda en osciloscopio.
 
 IMAGEN
 
 
 # Punto 2: 
-# Caracterización de Compuertas Lógicas 
-•	Componentes: Crea una tabla con los integrados usados (74HC08, 74HC32, 74HC04, etc.).
-•	Fichas Técnicas: Inserta imágenes de los diagramas de pines (pinout) de cada integrado.
-•	Tablas de Verdad: Registra los resultados de las pruebas (LED encendido/apagado) y compáralos con la función booleana teórica.
+El objetivo primordial de esta fase es el reconocimiento experimental y la caracterización técnica de las familias de compuertas lógicas básicas (AND, OR, NOT, NAND, NOR, XOR). A través de este ejercicio, se busca validar las funciones booleanas teóricas mediante la observación directa del comportamiento de circuitos integrados reales, identificando sus estados de salida (alto/bajo) ante diferentes combinaciones de entrada
 
+# Esquema
 
+# Componentes
+Según la tabla técnica de tu guía, los componentes a utilizar son:
+Compuerta AND: Circuito Integrado 74HC08 o 74LS08.
+Compuerta OR: Circuito Integrado 74HC32 o 74LS32.
+Compuerta NOT: Circuito Integrado 74HC04 o 74LS04.
+Compuerta NAND: Circuito Integrado 74HC00 o 74LS00.
+Compuerta NOR: Circuito Integrado 74HC02 o 74LS02.
+Compuerta XOR: Circuito Integrado 74HC86 o 74LS86.
+Extras: Protoboard, LED (indicador), resistencias de 220$\Omega$ o 330$\Omega$, y cables de conexión
+
+# Simulacion en proteus
+
+# Montaje Fisico
 
 # Punto 3: 
 # Conversor Binario a Hexadecimal 
