@@ -81,7 +81,7 @@ Aguirre, C. (2025, July 7). Circuitos Integrados: Compuertas Lógicas AND, OR , 
 <img width="1600" height="716" alt="Sin título" src="https://github.com/user-attachments/assets/420790e4-8d5d-491a-9e26-df9c0e1f4b4f" />
 
 
-## Punto 3: 
+## Punto 3 | Cnversor Binario a Hexadecimal: 
 El tercer punto es el diseño y construcción de un sistema decodificador combinacional. Este sistema nos permite convertir la entrada de un formato binario de 4 bits en una salida visual, por medio de un display de 7 segmentos. El principal recto es la traducción utilizando meramente compuertas lógicas.
 
 ### Lógica: 
@@ -115,12 +115,6 @@ Compuertas NOT (74LS04): Para obtener las negaciones de las entradas.
 Compuertas AND de 2 y 3 entradas (74LS08 / 74LS11): Para realizar los productos de los mapas de Karnaugh.
 Compuertas OR (74LS32): Para sumar los términos y enviar la señal final a cada segmento.
 Display 7 Segmentos Cátodo Común: El elemento de visualización final.Resistencias de 330-Omega: Siete unidades para proteger cada segmento del display.
-
-
-### Simulacion proteus
-Diagrama de montaje de circuito eléctrico para la creación de la onda por medio del 555.
- <img width="921" height="705" alt="image" src="https://github.com/user-attachments/assets/4b5da4a1-ed78-42a6-adeb-08792e46697a" />
- 
 
 ### Simulacion proteus
 <img width="1530" height="816" alt="image" src="https://github.com/user-attachments/assets/36bda3db-f9a7-4b79-b2ae-c8147768f2fe" />
