@@ -59,6 +59,7 @@ Compuerta XOR: Circuito Integrado 74HC86 o 74LS86.
 
 # Simulacion en proteus
 Compuerta AND
+
 ![alt text](image.png)
 Compuerta OR
 Compuerta NOT
