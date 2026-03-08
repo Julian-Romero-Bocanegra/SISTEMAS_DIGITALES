@@ -16,31 +16,21 @@ El informe documenta el desarrollo y los resultados obtenidos en el primer labor
 # Punto 1:
   El objetivo del primer punto de este laboratorio es diseñar y construir un oscilador astable con el uso del temporizador TL555. Este circuito se caracteriza por no tener un estado estable; su salida se conmuta constantemente entre el alto y el bajo de voltaje, generando así una onda cuadrada continua.
   
-  
-  
-# Objetivo: 
-  Por medio de un regulador 555 crear una onda digital con un tiempo de 2 segundos intermedios.
-  
-# Cálculos: 
-
-
 # Esquema: 
   Diagrama de montaje de circuito eléctrico para la creación de la onda por medio del 555.
  
 
 <img width="906" height="634" alt="image" src="https://github.com/user-attachments/assets/143062f6-2fb7-4ec7-9990-84ab32542019" />
-
-
-
 Referencia: (Cómo Construir un Oscilador con un Temporizador 555 (en Modo Astable). (n.d.). https://www.learningaboutelectronics.com/Articulos/Oscilador-con-un-temporizador-555-modo-astable.php#google_vignette)
 
 # Componentes: 
+  La lista de comonente se clasifica en activos y de control, pasivos y fuente de energia:
 # Componentes Activos y de Control
   U2 (Temporizador 555): Es el corazón del circuito, con la configuración  de multivibrador astable lo cual nos permite  generar la señal cuadrada (señal digital).
   U1 (Regulador de Voltaje 7805): Reducir y estabiliza el voltaje de entrada a 5V o 9Vencargado de la alimentación del circuito.
   D1 (LED-RED): Un diodo emisor de luz de color rojo (Bombillo LED) el cual es nuestro indicador de la oscilación de salida de 2 segundos.
-# componentes Pasivos (Resistencias y Capacitores)
   
+# componentes Pasivos (Resistencias y Capacitores)
   R1 (Resistencia): Valor de 1k\Omega.
   R2 (Resistencia): Valor de 6.2k\Omega.
   C1 (Capacitor Electrolítico): Valor de 220\muF, utilizado para el filtrado.
