@@ -129,11 +129,11 @@ Debido a la ausencia de componentes físicos para la implementación final, se t
 
 # Conclusiones 
 
-## Validación de la Oscilación Astable: 
+### Validación de la Oscilación Astable: 
 Se comprueba que el temporizador 555 nos permite la generación de señales cuadradas, mediante la experimentación y las combinaciones de R1 = 1 kΩ, R2 = 6.2 Ω y C = 220 µF.
-## Importancia de la Regulación de Voltaje: 
+### Importancia de la Regulación de Voltaje: 
 El implementar el regulador lm7805 es fundamental para la entrada del voltaje, esto mismo nos asegura la protección de los circuitos integrados.
-## Eficacia de la Lógica Combinacional: 
+### Eficacia de la Lógica Combinacional: 
 El desarrollo del conversor binario a hexadecimal demostró que es posible reemplazar integrados especializados mediante el diseño de una matriz de compuertas lógicas básicas (AND, OR, NOT), logrando la visualización correcta de los 16 caracteres (0-F) en un display de 7 segmentos.
 
 # Recomendaciones
