@@ -1,7 +1,9 @@
 # LABORATORIO N°1
 
 **Integrantes:** Edwin Stiven Pasto / Julian Romero Bocanegra
+
 **Docente:** Diego Alejandro Barragán Vargas
+
 **Institución:** Fundación Universitaria Compensar.
 
 # Introducción
