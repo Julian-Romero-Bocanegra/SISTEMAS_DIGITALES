@@ -102,15 +102,14 @@ Esa combinación de ceros y unos entra a una red de compuertas lógicas.
 ### Tabla de Verdad: 
 Por medio de la tabla de verdad se relaciona cada segmento del display para su reprsentacion hexadecimal
 <img width="921" height="542" alt="image" src="https://github.com/user-attachments/assets/f3926967-59b7-4f53-a516-8c53f272af64" />
+
 Referencia: (Elaborado por Edwin stiven pasto y Julian felipe Romero) 
 
 # Esquema: 
 
 
 ### Esquema: 
-Diagrama de montaje de circuito eléctrico para la creación de la onda por medio del 555.
- <img width="921" height="705" alt="image" src="https://github.com/user-attachments/assets/4b5da4a1-ed78-42a6-adeb-08792e46697a" />
-Referencia:  (Cómo Construir un Oscilador con un Temporizador 555 (en Modo Astable). (n.d.). https://www.learningaboutelectronics.com/Articulos/Oscilador-con-un-temporizador-555-modo-astable.php#google_vignette)
+
 
 
 ### Componentes
