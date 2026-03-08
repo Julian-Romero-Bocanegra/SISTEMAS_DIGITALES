@@ -158,4 +158,4 @@ Antes de energizar, es importante revisar los datasheets de cada uno de circuito
 * **Simulación:** Diseño desarrollado en Proteus Design Suite v8.13 / v9.1.
 * **Licencia:** Este proyecto se distribuye bajo fines académicos para la Universidad Compensar.
 * **Guía de Montaje Físico:** Tellez, J. (2016). *Decodificador binario a hexadecimal por compuertas lógicas* [Archivo de Video]. YouTube. [https://youtu.be/TKD4wU58XWE](https://youtu.be/TKD4wU58XWE).
-* **Optimización de Hardware:** El análisis del video de referencia confirma que el uso de compuertas de múltiples entradas, como la **74LS11** (AND de 3 entradas) y la **4072B** (OR de 4 entradas), es clave para reducir el número de circuitos integrados y simplificar el cableado en el protoboard.
+* **Asistencia Técnica:** Google Gemini (2026). Apoyo en la estructuración de lenguaje Markdown y resolución de conflictos de versiones en Git
