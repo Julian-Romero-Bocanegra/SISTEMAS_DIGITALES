@@ -58,22 +58,22 @@ Compuerta NOR: Circuito Integrado 74HC02 o 74LS02.
 Compuerta XOR: Circuito Integrado 74HC86 o 74LS86.
 
 # Simulacion en proteus
-Compuerta AND
+# Compuerta AND
 <img width="695" height="374" alt="image" src="https://github.com/user-attachments/assets/ab100b98-c19f-4465-a705-516f56822fbc" />
 
-Compuerta OR
+# Compuerta OR
 <img width="701" height="341" alt="image" src="https://github.com/user-attachments/assets/c4d17344-4db5-41ff-8132-364d312b0294" />
 
-Compuerta NOT
+# Compuerta NOT
 <img width="712" height="346" alt="image" src="https://github.com/user-attachments/assets/16bad156-d7db-405a-ac69-8784c8d15e73" />
 
-Compuerta NAND
+# Compuerta NAND
 <img width="683" height="366" alt="image" src="https://github.com/user-attachments/assets/1ac67bef-c4a8-4668-a7a6-e4de9c7e2ca5" />
 
-Compuertas NOR
+# Compuertas NOR
 <img width="703" height="362" alt="image" src="https://github.com/user-attachments/assets/064687f3-56d3-42b9-9921-73656547e18b" />
 
-Compuertas XOR
+# Compuertas XOR
 <img width="705" height="367" alt="image" src="https://github.com/user-attachments/assets/19b4e712-99b7-420e-8a52-9c45ffdec9e7" />
 
 
