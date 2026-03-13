@@ -11,6 +11,12 @@
 ## Introducción
 El informe documenta el desarrollo y los resultados obtenidos en el primer laboratorio implementado en Sistema Digitales. Este laboratorio se focaliza en la implementación y análisis de circuitos en electrónica digital, por ejemplo, el oscilador multivibrador como mediador, el temporizador TL555, la identificación de compuertas lógicas y el diseño de un sistema hexadecimal por medio de un display. Con la implementación de este ejercicio, se busca fundamentar y validar los conocimientos conceptuales de la lógica booleana y el comportamiento de la señal digital en el tiempo.
 
+## Hardware
+### Multimetro
+<img width="406" height="770" alt="image" src="https://github.com/user-attachments/assets/eed1d437-d573-4852-a600-b24778985420" />
+
+
+
 ## Punto 1 | Onda Digital:
   El objetivo del primer punto de este laboratorio es diseñar y construir un oscilador astable con el uso del temporizador TL555. Este circuito se caracteriza por no tener un estado estable; su salida se conmuta constantemente entre el alto y el bajo de voltaje, generando así una onda cuadrada continua.
   
@@ -151,4 +157,5 @@ Antes de energizar, es importante revisar los datasheets de cada uno de circuito
 * **Simulación:** Diseño desarrollado en Proteus Design Suite v8.13 / v9.1.
 * **Licencia:** Este proyecto se distribuye bajo fines académicos para la Universidad Compensar.
 * **Guía de Montaje Físico:** Tellez, J. (2016). *Decodificador binario a hexadecimal por compuertas lógicas* [Archivo de Video]. YouTube. [https://youtu.be/TKD4wU58XWE](https://youtu.be/TKD4wU58XWE).
+* **Manual de Instrumentación:** Stiven (2018). *Manual resumido de multímetro* [Documento]. Scribd. [https://es.scribd.com/document/403872865/Manual-Resumido-de-Multimetro](https://es.scribd.com/document/403872865/Manual-Resumido-de-Multimetro).
 * **Asistencia Técnica:** Google Gemini (2026). Apoyo en la estructuración de lenguaje Markdown y resolución de conflictos de versiones en Git
