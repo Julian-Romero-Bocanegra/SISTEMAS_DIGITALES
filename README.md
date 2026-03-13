@@ -227,3 +227,4 @@ Antes de energizar, es importante revisar los datasheets de cada uno de circuito
 * **Guía de Montaje Físico:** Tellez, J. (2016). *Decodificador binario a hexadecimal por compuertas lógicas* [Archivo de Video]. YouTube. [https://youtu.be/TKD4wU58XWE](https://youtu.be/TKD4wU58XWE).
 * **Manual de Instrumentación:** Stiven (2018). *Manual resumido de multímetro* [Documento]. Scribd. [https://es.scribd.com/document/403872865/Manual-Resumido-de-Multimetro](https://es.scribd.com/document/403872865/Manual-Resumido-de-Multimetro).
 * **Asistencia Técnica:** Google Gemini (2026). Apoyo en la estructuración de lenguaje Markdown y resolución de conflictos de versiones en Git
+*  **Fluke Corporation. (n.d.). Fluke. https://www.fluke.com/es-mx
