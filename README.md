@@ -37,6 +37,7 @@ Funciones adicionales: MIN/MAX, HOLD, RANGE automático/manual
 Seguridad: Categoría CAT III 1000 V, CAT IV 600 V
 
 Alimentación: Batería de 9 V tipo bloque
+
 <img width="406" height="770" alt="image" src="https://github.com/user-attachments/assets/eed1d437-d573-4852-a600-b24778985420" />
 
 ### Osciloscopio ROHDE & SCHWARZ RTC1002
@@ -114,7 +115,7 @@ Referencia: (Elaborado por Edwin stiven pasto y Julian felipe Romero)
 
 ### Montaje Fisico
 <img width="1534" height="807" alt="image" src="https://github.com/user-attachments/assets/1bda16ce-ead9-4fbc-b02c-39a2beb256c6" />
-<img width="552" height="410" alt="image" src="https://github.com/user-attachments/assets/8f35aec6-37cc-4196-8d71-c49050fbce85" />
+<img width="518" height="411" alt="image" src="https://github.com/user-attachments/assets/e67c2f98-8994-4213-92b3-529cb6b9f29e" />
 <img width="451" height="341" alt="image" src="https://github.com/user-attachments/assets/ad9f0959-f56b-4d8a-babc-7020fc36fc5b" />
 
 ## Punto 2 | Compuertas Logicas: 
