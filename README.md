@@ -42,6 +42,7 @@ C.C.: Modo Corriente Constante.
 C.V.: Modo Voltaje Constante.
 Controles: Perillas grueso/fino (COARSE/FINE) para Voltaje y Corriente.
 Conexiones: Bornes de salida con conexión a tierra (GND) y botón de encendido/apagado de salida (OUTPUT ON/OFF).
+
  
 ## Punto 1 | Onda Digital:
   El objetivo del primer punto de este laboratorio es diseñar y construir un oscilador astable con el uso del temporizador TL555. Este circuito se caracteriza por no tener un estado estable; su salida se conmuta constantemente entre el alto y el bajo de voltaje, generando así una onda cuadrada continua.
