@@ -13,6 +13,30 @@ El informe documenta el desarrollo y los resultados obtenidos en el primer labor
 
 ## Hardware
 ### Multimetro
+Especificaciones Técnicas – Fluke 179
+Tipo: Multímetro digital de verdadero RMS
+
+Pantalla: Digital con retroiluminación
+
+Medición de voltaje CA/CC: Hasta 1000 V
+
+Medición de corriente CA/CC: Hasta 10 A (20 A por hasta 30 segundos)
+
+Resistencia: Hasta 50 MΩ
+
+Capacitancia: Hasta 10,000 µF
+
+Frecuencia: Hasta 100 kHz
+
+Temperatura: Con termopar tipo K incluido
+
+Prueba de diodos y continuidad: Sí
+
+Funciones adicionales: MIN/MAX, HOLD, RANGE automático/manual
+
+Seguridad: Categoría CAT III 1000 V, CAT IV 600 V
+
+Alimentación: Batería de 9 V tipo bloque
 <img width="406" height="770" alt="image" src="https://github.com/user-attachments/assets/eed1d437-d573-4852-a600-b24778985420" />
 
 ### Osciloscopio ROHDE & SCHWARZ RTC1002
