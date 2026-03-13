@@ -42,6 +42,8 @@ Referencia: (Elaborado por Edwin stiven pasto y Julian felipe Romero)
 ### Montaje Fisico
 <img width="1534" height="807" alt="image" src="https://github.com/user-attachments/assets/1bda16ce-ead9-4fbc-b02c-39a2beb256c6" />
 
+
+
 ## Punto 2 | Compuertas Logicas: 
 El objetivo del punto #2 es reconocer la caracterización técnica de las compuertas lógicas AND, OR, NOT, NAND, NOR y XOR. A través de este ejercicio, se busca validar las funciones booleanas y su comportamiento directo en circuitos integrados reales, identificando sus salidas y sus diferentes combinaciones de entrada.
 
