@@ -41,30 +41,45 @@ Alimentación: Batería de 9 V tipo bloque
 
 ### Osciloscopio ROHDE & SCHWARZ RTC1002
 Marca y Modelo: Rohde & Schwarz RTC1002.
+
 Canales de Entrada: 2 canales analógicos (CH1, CH2) + Canales lógicos (D0 a D7).
+
 Funciones Principales: Medidas automáticas, Cursor, Análisis (FFT, etc.), Vista rápida (Quick View), Zoom.
+
 Disparo (Trigger): Tipos: Auto, Normal, Simple (Single). Incluye disparo externo (Ext. Trigger In).
+
 Generador de Patrones: Integrado (Pattern Generator).
+
 Salida Auxiliar: AUX OUT.
+
 Controles Destacados: Escala (VERTICAL/HORIZONTAL), Match, Referencia (REF), Filtro (FILTER), Bus.
  
 <img width="650" height="400" alt="image" src="https://github.com/user-attachments/assets/7f29114d-3620-4775-b566-ebf936e38aaf" />
 
 ### Fuente de Alimentación GWINSTEK GPS-2303
 Marca y Modelo: GW Instek GPS-2303.
+
 Número de Salidas: 2 canales independientes (CH1 y CH2).
+
 Modos de Operación:
 Independiente (INDEP): Cada canal funciona por separado.
+
 Serie (SERIES): Para aumentar el voltaje.
+
 Paralelo (PARALLEL): Para aumentar la corriente.
+
 Seguimiento (TRACKING): Modo Maestro/Esclavo (MASTER/SLAVE).
+
 Especificaciones Eléctricas:
 Rango de Voltaje: 0 ~ 30V por canal.
 Rango de Corriente: 0 ~ 3A por canal.
+
 Indicadores LED:
 C.C.: Modo Corriente Constante.
 C.V.: Modo Voltaje Constante.
+
 Controles: Perillas grueso/fino (COARSE/FINE) para Voltaje y Corriente.
+
 Conexiones: Bornes de salida con conexión a tierra (GND) y botón de encendido/apagado de salida (OUTPUT ON/OFF).
 
 <img width="696" height="449" alt="image" src="https://github.com/user-attachments/assets/7c92f446-68d0-468b-8321-3346ee5f81f8" />
