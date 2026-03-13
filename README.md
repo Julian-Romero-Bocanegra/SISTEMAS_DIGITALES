@@ -24,7 +24,7 @@ Generador de Patrones: Integrado (Pattern Generator).
 Salida Auxiliar: AUX OUT.
 Controles Destacados: Escala (VERTICAL/HORIZONTAL), Match, Referencia (REF), Filtro (FILTER), Bus.
  
-
+<img width="650" height="400" alt="image" src="https://github.com/user-attachments/assets/7f29114d-3620-4775-b566-ebf936e38aaf" />
 
 ### Fuente de Alimentación GWINSTEK GPS-2303
 Marca y Modelo: GW Instek GPS-2303.
@@ -43,7 +43,7 @@ C.V.: Modo Voltaje Constante.
 Controles: Perillas grueso/fino (COARSE/FINE) para Voltaje y Corriente.
 Conexiones: Bornes de salida con conexión a tierra (GND) y botón de encendido/apagado de salida (OUTPUT ON/OFF).
 
-
+<img width="696" height="449" alt="image" src="https://github.com/user-attachments/assets/7c92f446-68d0-468b-8321-3346ee5f81f8" />
  
 ## Punto 1 | Onda Digital:
   El objetivo del primer punto de este laboratorio es diseñar y construir un oscilador astable con el uso del temporizador TL555. Este circuito se caracteriza por no tener un estado estable; su salida se conmuta constantemente entre el alto y el bajo de voltaje, generando así una onda cuadrada continua.
@@ -75,8 +75,8 @@ Referencia: (Elaborado por Edwin stiven pasto y Julian felipe Romero)
 
 ### Montaje Fisico
 <img width="1534" height="807" alt="image" src="https://github.com/user-attachments/assets/1bda16ce-ead9-4fbc-b02c-39a2beb256c6" />
-
-
+<img width="552" height="410" alt="image" src="https://github.com/user-attachments/assets/8f35aec6-37cc-4196-8d71-c49050fbce85" />
+<img width="451" height="341" alt="image" src="https://github.com/user-attachments/assets/ad9f0959-f56b-4d8a-babc-7020fc36fc5b" />
 
 ## Punto 2 | Compuertas Logicas: 
 El objetivo del punto #2 es reconocer la caracterización técnica de las compuertas lógicas AND, OR, NOT, NAND, NOR y XOR. A través de este ejercicio, se busca validar las funciones booleanas y su comportamiento directo en circuitos integrados reales, identificando sus salidas y sus diferentes combinaciones de entrada.
